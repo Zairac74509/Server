@@ -1,0 +1,149 @@
+players:
+  19934a60-97aa-3fec-a898-c8801cc0d78f:
+    molly:
+      points: 0.0
+      last_use: 0
+      withdrawal_blocked_until: 1790997784011
+      last_decay: 0
+    cocaine:
+      points: 0.0
+      last_use: 0
+      withdrawal_blocked_until: 1790997784011
+      last_decay: 0
+    meth:
+      points: 0.0
+      last_use: 0
+      withdrawal_blocked_until: 1790997784011
+      last_decay: 0
+  00000000-0000-0000-0009-01f6d46c93b7:
+    molly:
+      points: 0.0
+      last_use: 0
+      withdrawal_blocked_until: 1791004177968
+      last_decay: 0
+    cocaine:
+      points: 0.0
+      last_use: 0
+      withdrawal_blocked_until: 1791004177968
+      last_decay: 0
+    blunt:
+      points: 0.0
+      last_use: 1790998721989
+      withdrawal_blocked_until: 0
+      last_decay: 1790998782294
+    meth:
+      points: 0.0
+      last_use: 0
+      withdrawal_blocked_until: 1791004177968
+      last_decay: 0
+  422e91b3-b312-3f0c-99dd-31acba6e4d68:
+    molly:
+      points: 0.0
+      last_use: 0
+      withdrawal_blocked_until: 1791006482455
+      last_decay: 0
+    cocaine:
+      points: 0.0
+      last_use: 0
+      withdrawal_blocked_until: 1791006482455
+      last_decay: 0
+    blunt:
+      points: 0.0
+      last_use: 1791002416991
+      withdrawal_blocked_until: 0
+      last_decay: 1791002477594
+    meth:
+      points: 0.0
+      last_use: 0
+      withdrawal_blocked_until: 1791006482455
+      last_decay: 0
+  00000000-0000-0000-0009-01fc5feeebde:
+    molly:
+      points: 0.0
+      last_use: 0
+      withdrawal_blocked_until: 1791000376190
+      last_decay: 0
+    cocaine:
+      points: 0.0
+      last_use: 0
+      withdrawal_blocked_until: 1791000376190
+      last_decay: 0
+    meth:
+      points: 0.0
+      last_use: 0
+      withdrawal_blocked_until: 1791000376190
+      last_decay: 0
+  9b64c9d9-6d55-31db-98af-a321e5089f12:
+    glue:
+      points: 0.0
+      last_use: 1790998995321
+      withdrawal_blocked_until: 0
+      last_decay: 1790999462294
+    blunt:
+      points: 0.0
+      last_use: 1791010261508
+      withdrawal_blocked_until: 0
+      last_decay: 1791010413594
+  98c6c799-18cd-38a8-b947-80e75de61a1b:
+    molly:
+      points: 0.0
+      last_use: 0
+      withdrawal_blocked_until: 1791002727770
+      last_decay: 0
+    cocaine:
+      points: 0.0
+      last_use: 0
+      withdrawal_blocked_until: 1791002727770
+      last_decay: 0
+    blunt:
+      points: 0.0
+      last_use: 1790998742812
+      withdrawal_blocked_until: 0
+      last_decay: 1790998803294
+    meth:
+      points: 0.0
+      last_use: 0
+      withdrawal_blocked_until: 1791002727770
+      last_decay: 0
+  00000000-0000-0000-0009-01f1439fa5bf:
+    molly:
+      points: 0.0
+      last_use: 0
+      withdrawal_blocked_until: 1791001353553
+      last_decay: 0
+    cocaine:
+      points: 0.0
+      last_use: 0
+      withdrawal_blocked_until: 1791001353553
+      last_decay: 0
+    blunt:
+      points: 0.0
+      last_use: 1791002354036
+      withdrawal_blocked_until: 0
+      last_decay: 1791002414194
+    meth:
+      points: 0.0
+      last_use: 0
+      withdrawal_blocked_until: 1791001353553
+      last_decay: 0
+  e4b7f9ea-cb47-3a76-af9f-a06b8def6cfd:
+    molly:
+      points: 0.0
+      last_use: 0
+      withdrawal_blocked_until: 1791006257086
+      last_decay: 0
+    cocaine:
+      points: 0.0
+      last_use: 0
+      withdrawal_blocked_until: 1791006257086
+      last_decay: 0
+    blunt:
+      points: 0.0
+      last_use: 1791001515194
+      withdrawal_blocked_until: 0
+      last_decay: 1791001575194
+    meth:
+      points: 0.0
+      last_use: 0
+      withdrawal_blocked_until: 1791006257086
+      last_decay: 0
